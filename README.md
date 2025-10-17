@@ -1,5 +1,4 @@
-# brianestimejr
- Hi, I'm Brian Estime!
+Hi, I'm Brian Estime!
 
 🎓 About Me
 -🎯 Computer Engineering student at Hillsborough Community College
