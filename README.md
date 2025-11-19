@@ -3,7 +3,7 @@ Hi, I'm Brian Estime!
 🎓 About Me
 -🎯 Computer Engineering student at Hillsborough Community College
 -💻 Interested in Cybersecurity, Software Engineering, and Robotics
--🧠 Currently learning Python, Git/GitHub, and network fundamentals
+-🧠 Currently learning fullstack dev and electronics
 -🏋️ College basketball player — passionate about discipline, growth, and performance both on and off the court
 
 💡 Projects & Learning
